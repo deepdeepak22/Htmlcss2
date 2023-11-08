@@ -1,0 +1,71 @@
+.header{
+    width: 1350px;
+    height: 400px;
+    background-color: black;
+}
+.navbar{
+    margin-left: 300px;
+}
+.nav-item{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+}
+.header-content{
+    margin-top: 100px;
+}
+.subcontent{
+    color: white;
+    text-align: center;
+    
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.imagepoet{
+    width: 180px;
+    height: 250px;
+    margin-left: 900px;
+    
+}
+.detail{
+    padding: 50px;
+    width: 500px;
+    padding: 30px;
+    margin-left: 50px;
+}
+.image{
+    margin-top: -500px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.inbutton{
+    margin: 5px;
+}
+.quote{
+    width: 1350px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+}
+.awards{
+    text-align: center;
+}
+.awards-content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.awards1{
+    border: 1px solid black;
+    padding: 10px;
+}
